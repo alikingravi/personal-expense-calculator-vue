@@ -1,6 +1,6 @@
-# meemoneez
+# Introduction
 
-> This is meemoneez project
+> This is a Vue.js project which is built using vue-cli. It is a simple application which makes calls to a backend microservice (personal-expense-calculator) and retrieves data for a particular user's monthly expenses and displays it in beautiful charts. Highcharts have been used for this implementation.
 
 ## Build Setup
 
